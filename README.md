@@ -1,2 +1,2 @@
-# Tic-Tac-Tor
-Created with CodeSandbox
+# Tic-Tac-Toe
+Simple game Created with CodeSandbox
